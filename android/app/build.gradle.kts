@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.secureq_quantum_password_generator"
+    namespace = "com.hectormozo.secureq"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "27.0.12077973"
 
@@ -19,7 +19,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.bb84_gui_web"
+        applicationId = "com.hectormozo.secureq"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

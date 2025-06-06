@@ -1,4 +1,4 @@
-package com.example.secureq_quantum_password_generator
+package com.hectormozo.secureq
 
 import io.flutter.embedding.android.FlutterActivity
 
